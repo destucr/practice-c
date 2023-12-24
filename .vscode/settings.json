@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.css": "css",
+        "gtk.h": "c",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
