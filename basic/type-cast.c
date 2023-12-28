@@ -11,5 +11,5 @@ int main(){
 
     double dozen = (double) eggs / 12; // type casting only affect the first thing on its right i.e only eggs
 
-    printf("Number of eggs is: %f\n", dozen);
+    printf("Number of eggs in dozen is: %f\n", dozen);
 }
